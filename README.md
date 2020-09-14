@@ -1,12 +1,12 @@
 # Downstream-Analysis
 
 ## Pipeline followed   
-Gene Expression using Trim-galore, STAR, RSEM
+Gene Expression using Trim-galore, STAR, RSEM for Patient, Xenograft and Cell-line data.
 
 ## Run Command 
 ```bash
 bash DEpipeline1_v2.sh
-python fastq_download.py PE/SE subtypeData.txt
+python fastq_download.py PE/SE subtypeAnnotationData.txt
 ```
 
 *subtype.txt* is a tab-seperated file which contain sample information in the format -  
