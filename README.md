@@ -10,4 +10,4 @@ python fastq_download.py PE/SE subtypeData.txt
 ```
 
 *subtype.txt* is a tab-seperated file which contain sample information in the format - 
-<sample Acccession number> <sample subtype>
+ <sample Acccession number> <sample subtype>
