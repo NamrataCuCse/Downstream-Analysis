@@ -13,9 +13,9 @@ python fastq_download.py PE/SE subtypeData.txt
 <(sample Acccession number) (sample subtype)>
 
 Example:
-SRR8528473	Cell line
-SRR8528517	Patient data
-SRR9842107	PDX
+SRR8528473	Cell line <br />
+SRR8528517	Patient data <br />
+SRR9842107	PDX <br />
 
 
 
