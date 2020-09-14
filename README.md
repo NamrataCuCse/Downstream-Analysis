@@ -15,10 +15,10 @@ python fastq_download.py PE/SE subtypeAnnotationData.txt
 3. *subtype.txt* is a tab-seperated file which contain sample information in the format -  
 <(sample Acccession number) (sample subtype)>
 
-Example:<br />
-SRR8528473	Cell line <br />
-SRR8528517	Patient data <br />
-SRR9842107	PDX <br />
+  Example:<br />
+    SRR8528473	Cell line <br />
+    SRR8528517	Patient data <br />
+    SRR9842107	PDX <br />
 
 
 
