@@ -5,7 +5,7 @@ Gene Expression using Trim-galore, STAR, RSEM for Patient, Xenograft and Cell-li
 
 ## Run Command 
 ```bash
-bash DEpipeline1_v2.sh
+bash reference_prepare.sh
 python fastq_download.py PE/SE subtypeAnnotationData.txt
 ```
 
