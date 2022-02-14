@@ -1,6 +1,7 @@
 # Downstream-Analysis of Bulk RNA-seq data
 
-## Pipeline followed   
+## Pipeline followed 
+FastQ read to Gene-Expression profile of Bulk RNA-seq data
 Gene Expression using Trim-galore, STAR, RSEM for Patient, Xenograft and Cell-line data.
 
 ## Run Command 
