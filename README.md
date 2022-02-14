@@ -1,4 +1,4 @@
-# Downstream-Analysis
+# Downstream-Analysis of Bulk RNA-seq data
 
 ## Pipeline followed   
 Gene Expression using Trim-galore, STAR, RSEM for Patient, Xenograft and Cell-line data.
